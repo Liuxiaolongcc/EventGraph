@@ -1,5 +1,6 @@
 # EventGraph
 事件抽取及可视化程序使用说明
+
 一.需要安装的库
 os, pyltp, jieba, re, textrank4zh, codecs;
 
